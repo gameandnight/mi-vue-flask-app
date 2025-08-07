@@ -1,0 +1,1 @@
+import{_ as o,n as t,o as n,c as a,b as r,q as c,F as s,a as _,e as l}from"./index-9ca41724.js";const d={},u=_("h1",null,"404 – Página no encontrada",-1);function i(m,f){const e=t("router-link");return n(),a(s,null,[u,r(e,{to:"/"},{default:c(()=>[l("Ir a Home")]),_:1})],64)}const x=o(d,[["render",i]]);export{x as default};

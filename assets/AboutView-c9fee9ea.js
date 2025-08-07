@@ -1,0 +1,1 @@
+import{o as t,c as o,F as a,a as e}from"./index-9ca41724.js";const n=e("h1",null,"About",-1),_=e("p",null,"Aplicación de compras online realizadad con Vue",-1),u={__name:"AboutView",setup(c){return(s,l)=>(t(),o(a,null,[n,_],64))}};export{u as default};
