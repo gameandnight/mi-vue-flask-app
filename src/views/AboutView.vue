@@ -2,7 +2,7 @@
   <!-- Título de la página About -->
   <h1>About</h1>
   <!-- Párrafo descriptivo; aquí iría tu texto explicativo de la aplicación -->
-  <p>Aplicación de compras online realizadad con Vue</p>
+  <p>Aplicación de compras online realizada con Vue</p>
 </template>
 
 <script setup>
